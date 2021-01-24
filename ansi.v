@@ -2,9 +2,9 @@
 module ansi
 
 pub fn reset() string { return "\e[0m" }
-pub fn bright(input string) string { return "\e[1m${input}\e[0m" }
+pub fn bold(input string) string { return "\e[1m${input}\e[0m" }
 pub fn dim(input string) string { return "\e[2m${input}\e[0m" }
-pub fn underscore(input string) string { return "\e[4m${input}\e[0m" }
+pub fn underline(input string) string { return "\e[4m${input}\e[0m" }
 pub fn blink(input string) string { return "\e[5m${input}\e[0m" }
 pub fn reverse(input string) string { return "\e[7m${input}\e[0m" }
 pub fn hidden(input string) string { return "\e[8m${input}\e[0m" }

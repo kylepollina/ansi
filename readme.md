@@ -1,6 +1,6 @@
 # ansi.v
 
-Simple module for formatting ANSI escape sequences to the terminal.
+Simple module for the V programming language for formatting ANSI escape sequences to the terminal.
 
 ![img](example.png)
 

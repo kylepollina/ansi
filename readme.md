@@ -4,6 +4,8 @@ Colors in your terminal for the V programming language
 
 ![img](example.png)
 
+Works on MacOS, Linux, Windows
+
 --------
 
 #### Styles

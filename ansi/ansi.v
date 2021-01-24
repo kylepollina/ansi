@@ -1,6 +1,7 @@
 
 module ansi
 
+// Styles 
 pub fn reset() string { return "\e[0m" }
 pub fn bold(input string) string { return "\e[1m${input}\e[0m" }
 pub fn dim(input string) string { return "\e[2m${input}\e[0m" }

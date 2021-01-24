@@ -9,30 +9,30 @@ Works on MacOS, Linux, Windows
 --------
 
 #### Styles
-- reset
-- bold
-- dim
-- underline
-- blink
-- reverse
-- hidden
+- `ansi.reset`
+- `ansi.bold`
+- `ansi.dim`
+- `ansi.underline`
+- `ansi.blink`
+- `ansi.reverse`
+- `ansi.hidden`
 
 #### Foreground Colours
-- black
-- red
-- green
-- yellow
-- blue
-- magenta
-- cyan
-- white
+- `ansi.black`
+- `ansi.red`
+- `ansi.green`
+- `ansi.yellow`
+- `ansi.blue`
+- `ansi.magenta`
+- `ansi.cyan`
+- `ansi.white`
 
 #### Background Colours
-- on_black
-- on_red
-- on_green
-- on_yellow
-- on_blue
-- on_magenta
-- on_cyan
-- on_white
+- `ansi.on_black`
+- `ansi.on_red`
+- `ansi.on_green`
+- `ansi.on_yellow`
+- `ansi.on_blue`
+- `ansi.on_magenta`
+- `ansi.on_cyan`
+- `ansi.on_white`

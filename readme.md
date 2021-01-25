@@ -2,7 +2,7 @@
 
 Colors in your terminal for the V programming language
 
-![img](example.png)
+!<img src="https://blessed.readthedocs.io/en/latest/_images/img.png" width="50" height="10">(example.png)
 
 Works on MacOS, Linux, Windows
 
@@ -42,6 +42,8 @@ Works on MacOS, Linux, Windows
 
 Each of these colors has an equivalent `on_<color>()` function for use as background colors
 
+https:\/\/blessed.readthedocs.io\/en\/latest\/_images\/
+
 | name | colour
 | :----- | :----
 | red2 | <img src="https://blessed.readthedocs.io/en/latest/_images/red2.png" width="50" height="10">
@@ -50,504 +52,504 @@ Each of these colors has an equivalent `on_<color>()` function for use as backgr
 | snow2 | <img src="https://blessed.readthedocs.io/en/latest/_images/snow2.png" width="50" height="10">
 | snow3 | <img src="https://blessed.readthedocs.io/en/latest/_images/snow3.png" width="50" height="10">
 | snow4 | <img src="https://blessed.readthedocs.io/en/latest/_images/snow4.png" width="50" height="10">
-| brown | [brown]
-| brown1 | [brown1]
-| brown2 | [brown2]
-| brown3 | [brown3]
-| brown4 | [brown4]
-| darkred | [darkred]
-| indianred | [indianred]
-| indianred1 | [indianred1]
-| indianred2 | [indianred2]
-| indianred3 | [indianred3]
-| indianred4 | [indianred4]
-| firebrick | [firebrick]
-| firebrick1 | [firebrick1]
-| firebrick2 | [firebrick2]
-| firebrick3 | [firebrick3]
-| firebrick4 | [firebrick4]
-| webmaroon | [webmaroon]
-| rosybrown | [rosybrown]
-| rosybrown1 | [rosybrown1]
-| rosybrown2 | [rosybrown2]
-| rosybrown3 | [rosybrown3]
-| rosybrown4 | [rosybrown4]
-| lightcoral | [lightcoral]
-| salmon | [salmon]
-| mistyrose | [mistyrose]
-| mistyrose2 | [mistyrose2]
-| mistyrose3 | [mistyrose3]
-| coral1 | [coral1]
-| coral2 | [coral2]
-| coral3 | [coral3]
-| coral4 | [coral4]
-| tomato | [tomato]
-| tomato2 | [tomato2]
-| tomato3 | [tomato3]
-| tomato4 | [tomato4]
-| mistyrose4 | [mistyrose4]
-| salmon1 | [salmon1]
-| salmon2 | [salmon2]
-| salmon3 | [salmon3]
-| salmon4 | [salmon4]
-| coral | [coral]
-| orangered | [orangered]
-| orangered2 | [orangered2]
-| orangered3 | [orangered3]
-| orangered4 | [orangered4]
-| darksalmon | [darksalmon]
-| lightsalmon | [lightsalmon]
-| lightsalmon2 | [lightsalmon2]
-| lightsalmon3 | [lightsalmon3]
-| lightsalmon4 | [lightsalmon4]
-| sienna | [sienna]
-| sienna1 | [sienna1]
-| sienna2 | [sienna2]
-| sienna3 | [sienna3]
-| sienna4 | [sienna4]
-| seashell | [seashell]
-| chocolate | [chocolate]
-| chocolate1 | [chocolate1]
-| chocolate2 | [chocolate2]
-| chocolate3 | [chocolate3]
-| chocolate4 | [chocolate4]
-| seashell2 | [seashell2]
-| seashell3 | [seashell3]
-| seashell4 | [seashell4]
-| peachpuff | [peachpuff]
-| peachpuff2 | [peachpuff2]
-| peachpuff3 | [peachpuff3]
-| peachpuff4 | [peachpuff4]
-| sandybrown | [sandybrown]
-| tan1 | [tan1]
-| tan2 | [tan2]
-| tan4 | [tan4]
-| peru | [peru]
-| linen | [linen]
-| bisque3 | [bisque3]
-| darkorange1 | [darkorange1]
-| darkorange2 | [darkorange2]
-| darkorange3 | [darkorange3]
-| darkorange4 | [darkorange4]
-| tan | [tan]
-| bisque | [bisque]
-| bisque2 | [bisque2]
-| bisque4 | [bisque4]
-| burlywood | [burlywood]
-| burlywood1 | [burlywood1]
-| burlywood2 | [burlywood2]
-| burlywood3 | [burlywood3]
-| burlywood4 | [burlywood4]
-| darkorange | [darkorange]
-| navajowhite | [navajowhite]
-| navajowhite2 | [navajowhite2]
-| antiquewhite | [antiquewhite]
-| antiquewhite1 | [antiquewhite1]
-| antiquewhite2 | [antiquewhite2]
-| antiquewhite3 | [antiquewhite3]
-| antiquewhite4 | [antiquewhite4]
-| wheat | [wheat]
-| wheat1 | [wheat1]
-| wheat2 | [wheat2]
-| wheat3 | [wheat3]
-| wheat4 | [wheat4]
-| orange | [orange]
-| orange2 | [orange2]
-| orange3 | [orange3]
-| orange4 | [orange4]
-| oldlace | [oldlace]
-| moccasin | [moccasin]
-| papayawhip | [papayawhip]
-| navajowhite3 | [navajowhite3]
-| navajowhite4 | [navajowhite4]
-| blanchedalmond | [blanchedalmond]
-| goldenrod | [goldenrod]
-| goldenrod1 | [goldenrod1]
-| goldenrod2 | [goldenrod2]
-| goldenrod3 | [goldenrod3]
-| goldenrod4 | [goldenrod4]
-| floralwhite | [floralwhite]
-| darkgoldenrod | [darkgoldenrod]
-| darkgoldenrod1 | [darkgoldenrod1]
-| darkgoldenrod2 | [darkgoldenrod2]
-| darkgoldenrod3 | [darkgoldenrod3]
-| darkgoldenrod4 | [darkgoldenrod4]
-| cornsilk | [cornsilk]
-| cornsilk2 | [cornsilk2]
-| cornsilk3 | [cornsilk3]
-| lightgoldenrod1 | [lightgoldenrod1]
-| lightgoldenrod2 | [lightgoldenrod2]
-| lightgoldenrod3 | [lightgoldenrod3]
-| gold | [gold]
-| gold2 | [gold2]
-| gold3 | [gold3]
-| gold4 | [gold4]
-| cornsilk4 | [cornsilk4]
-| lemonchiffon2 | [lemonchiffon2]
-| lightgoldenrod | [lightgoldenrod]
-| lightgoldenrod4 | [lightgoldenrod4]
-| khaki | [khaki]
-| khaki1 | [khaki1]
-| khaki2 | [khaki2]
-| khaki3 | [khaki3]
-| khaki4 | [khaki4]
-| darkkhaki | [darkkhaki]
-| lemonchiffon | [lemonchiffon]
-| lemonchiffon3 | [lemonchiffon3]
-| lemonchiffon4 | [lemonchiffon4]
-| palegoldenrod | [palegoldenrod]
-| beige | [beige]
-| olive | [olive]
-| ivory | [ivory]
-| ivory2 | [ivory2]
-| ivory3 | [ivory3]
-| ivory4 | [ivory4]
-| yellow2 | [yellow2]
-| yellow3 | [yellow3]
-| yellow4 | [yellow4]
-| lightyellow | [lightyellow]
-| lightyellow2 | [lightyellow2]
-| lightyellow3 | [lightyellow3]
-| lightyellow4 | [lightyellow4]
-| lightgoldenrodyellow | [lightgoldenrodyellow]
-| olivedrab | [olivedrab]
-| olivedrab1 | [olivedrab1]
-| olivedrab2 | [olivedrab2]
-| olivedrab3 | [olivedrab3]
-| olivedrab4 | [olivedrab4]
-| darkolivegreen | [darkolivegreen]
-| darkolivegreen1 | [darkolivegreen1]
-| darkolivegreen2 | [darkolivegreen2]
-| darkolivegreen3 | [darkolivegreen3]
-| darkolivegreen4 | [darkolivegreen4]
-| greenyellow | [greenyellow]
-| lawngreen | [lawngreen]
-| chartreuse | [chartreuse]
-| chartreuse2 | [chartreuse2]
-| chartreuse3 | [chartreuse3]
-| chartreuse4 | [chartreuse4]
-| green2 | [green2]
-| green3 | [green3]
-| green4 | [green4]
-| webgreen | [webgreen]
-| honeydew | [honeydew]
-| honeydew2 | [honeydew2]
-| honeydew3 | [honeydew3]
-| honeydew4 | [honeydew4]
-| darkgreen | [darkgreen]
-| palegreen | [palegreen]
-| palegreen1 | [palegreen1]
-| palegreen3 | [palegreen3]
-| palegreen4 | [palegreen4]
-| limegreen | [limegreen]
-| lightgreen | [lightgreen]
-| forestgreen | [forestgreen]
-| darkseagreen | [darkseagreen]
-| darkseagreen1 | [darkseagreen1]
-| darkseagreen2 | [darkseagreen2]
-| darkseagreen3 | [darkseagreen3]
-| darkseagreen4 | [darkseagreen4]
-| seagreen | [seagreen]
-| seagreen1 | [seagreen1]
-| seagreen2 | [seagreen2]
-| seagreen3 | [seagreen3]
-| mediumseagreen | [mediumseagreen]
-| mintcream | [mintcream]
-| springgreen | [springgreen]
-| springgreen2 | [springgreen2]
-| springgreen3 | [springgreen3]
-| springgreen4 | [springgreen4]
-| mediumspringgreen | [mediumspringgreen]
-| aquamarine | [aquamarine]
-| aquamarine2 | [aquamarine2]
-| aquamarine3 | [aquamarine3]
-| aquamarine4 | [aquamarine4]
-| turquoise | [turquoise]
-| lightseagreen | [lightseagreen]
-| mediumturquoise | [mediumturquoise]
-| teal | [teal]
-| aqua | [aqua]
-| cyan2 | [cyan2]
-| cyan3 | [cyan3]
-| cyan4 | [cyan4]
-| azure | [azure]
-| azure2 | [azure2]
-| azure3 | [azure3]
-| azure4 | [azure4]
-| cadetblue | [cadetblue]
-| lightcyan | [lightcyan]
-| lightcyan2 | [lightcyan2]
-| lightcyan3 | [lightcyan3]
-| lightcyan4 | [lightcyan4]
-| turquoise1 | [turquoise1]
-| turquoise2 | [turquoise2]
-| turquoise3 | [turquoise3]
-| turquoise4 | [turquoise4]
-| darkslategray | [darkslategray]
-| darkslategray1 | [darkslategray1]
-| darkslategray2 | [darkslategray2]
-| darkslategray3 | [darkslategray3]
-| darkslategray4 | [darkslategray4]
-| darkturquoise | [darkturquoise]
-| paleturquoise | [paleturquoise]
-| paleturquoise1 | [paleturquoise1]
-| paleturquoise2 | [paleturquoise2]
-| paleturquoise3 | [paleturquoise3]
-| paleturquoise4 | [paleturquoise4]
-| cadetblue1 | [cadetblue1]
-| cadetblue2 | [cadetblue2]
-| cadetblue3 | [cadetblue3]
-| cadetblue4 | [cadetblue4]
-| powderblue | [powderblue]
-| lightblue4 | [lightblue4]
-| skyblue | [skyblue]
-| lightblue | [lightblue]
-| lightblue1 | [lightblue1]
-| lightblue2 | [lightblue2]
-| lightblue3 | [lightblue3]
-| deepskyblue | [deepskyblue]
-| deepskyblue2 | [deepskyblue2]
-| deepskyblue3 | [deepskyblue3]
-| deepskyblue4 | [deepskyblue4]
-| lightskyblue3 | [lightskyblue3]
-| skyblue1 | [skyblue1]
-| skyblue2 | [skyblue2]
-| skyblue3 | [skyblue3]
-| skyblue4 | [skyblue4]
-| lightskyblue | [lightskyblue]
-| lightskyblue1 | [lightskyblue1]
-| lightskyblue2 | [lightskyblue2]
-| lightskyblue4 | [lightskyblue4]
-| aliceblue | [aliceblue]
-| steelblue | [steelblue]
-| steelblue1 | [steelblue1]
-| steelblue2 | [steelblue2]
-| steelblue3 | [steelblue3]
-| steelblue4 | [steelblue4]
-| slategray | [slategray]
-| slategray1 | [slategray1]
-| slategray2 | [slategray2]
-| slategray3 | [slategray3]
-| slategray4 | [slategray4]
-| dodgerblue | [dodgerblue]
-| dodgerblue2 | [dodgerblue2]
-| dodgerblue3 | [dodgerblue3]
-| dodgerblue4 | [dodgerblue4]
-| lightslategray | [lightslategray]
-| lightsteelblue | [lightsteelblue]
-| lightsteelblue1 | [lightsteelblue1]
-| lightsteelblue2 | [lightsteelblue2]
-| lightsteelblue3 | [lightsteelblue3]
-| lightsteelblue4 | [lightsteelblue4]
-| cornflowerblue | [cornflowerblue]
-| royalblue | [royalblue]
-| royalblue1 | [royalblue1]
-| royalblue2 | [royalblue2]
-| royalblue3 | [royalblue3]
-| royalblue4 | [royalblue4]
-| blue2 | [blue2]
-| blue3 | [blue3]
-| blue4 | [blue4]
-| navy | [navy]
-| lavender | [lavender]
-| ghostwhite | [ghostwhite]
-| midnightblue | [midnightblue]
-| slateblue | [slateblue]
-| slateblue1 | [slateblue1]
-| slateblue3 | [slateblue3]
-| slateblue4 | [slateblue4]
-| lightslateblue | [lightslateblue]
-| slateblue2 | [slateblue2]
-| darkslateblue | [darkslateblue]
-| mediumslateblue | [mediumslateblue]
-| mediumpurple | [mediumpurple]
-| mediumpurple1 | [mediumpurple1]
-| mediumpurple2 | [mediumpurple2]
-| mediumpurple3 | [mediumpurple3]
-| mediumpurple4 | [mediumpurple4]
-| purple1 | [purple1]
-| purple2 | [purple2]
-| purple3 | [purple3]
-| purple4 | [purple4]
-| blueviolet | [blueviolet]
-| rebeccapurple | [rebeccapurple]
-| indigo | [indigo]
-| purple | [purple]
-| darkorchid | [darkorchid]
-| darkorchid1 | [darkorchid1]
-| darkorchid2 | [darkorchid2]
-| darkorchid3 | [darkorchid3]
-| darkorchid4 | [darkorchid4]
-| darkviolet | [darkviolet]
-| mediumorchid1 | [mediumorchid1]
-| mediumorchid2 | [mediumorchid2]
-| mediumorchid3 | [mediumorchid3]
-| mediumorchid4 | [mediumorchid4]
-| mediumorchid | [mediumorchid]
-| plum | [plum]
-| plum1 | [plum1]
-| plum2 | [plum2]
-| plum3 | [plum3]
-| plum4 | [plum4]
-| orchid | [orchid]
-| orchid4 | [orchid4]
-| violet | [violet]
-| magenta2 | [magenta2]
-| magenta3 | [magenta3]
-| fuchsia | [fuchsia]
-| thistle | [thistle]
-| thistle1 | [thistle1]
-| thistle2 | [thistle2]
-| thistle3 | [thistle3]
-| thistle4 | [thistle4]
-| webpurple | [webpurple]
-| darkmagenta | [darkmagenta]
-| orchid1 | [orchid1]
-| orchid2 | [orchid2]
-| orchid3 | [orchid3]
-| maroon1 | [maroon1]
-| maroon2 | [maroon2]
-| maroon3 | [maroon3]
-| maroon4 | [maroon4]
-| violetred | [violetred]
-| mediumvioletred | [mediumvioletred]
-| deeppink | [deeppink]
-| deeppink2 | [deeppink2]
-| deeppink4 | [deeppink4]
-| hotpink | [hotpink]
-| hotpink1 | [hotpink1]
-| hotpink4 | [hotpink4]
-| deeppink3 | [deeppink3]
-| hotpink2 | [hotpink2]
-| hotpink3 | [hotpink3]
-| violetred1 | [violetred1]
-| violetred2 | [violetred2]
-| violetred3 | [violetred3]
-| violetred4 | [violetred4]
-| maroon | [maroon]
-| lavenderblush4 | [lavenderblush4]
-| lavenderblush | [lavenderblush]
-| lavenderblush2 | [lavenderblush2]
-| lavenderblush3 | [lavenderblush3]
-| palevioletred | [palevioletred]
-| palevioletred1 | [palevioletred1]
-| palevioletred2 | [palevioletred2]
-| palevioletred3 | [palevioletred3]
-| palevioletred4 | [palevioletred4]
-| pink1 | [pink1]
-| pink2 | [pink2]
-| pink3 | [pink3]
-| pink4 | [pink4]
-| crimson | [crimson]
-| pink | [pink]
-| lightpink | [lightpink]
-| lightpink1 | [lightpink1]
-| lightpink2 | [lightpink2]
-| lightpink3 | [lightpink3]
-| lightpink4 | [lightpink4]
-| gray1 | [gray1]
-| gray2 | [gray2]
-| gray3 | [gray3]
-| gray4 | [gray4]
-| gray5 | [gray5]
-| gray6 | [gray6]
-| gray7 | [gray7]
-| gray8 | [gray8]
-| gray9 | [gray9]
-| gray10 | [gray10]
-| gray11 | [gray11]
-| gray12 | [gray12]
-| gray13 | [gray13]
-| gray14 | [gray14]
-| gray15 | [gray15]
-| gray16 | [gray16]
-| gray17 | [gray17]
-| gray18 | [gray18]
-| gray19 | [gray19]
-| gray20 | [gray20]
-| gray21 | [gray21]
-| gray22 | [gray22]
-| gray23 | [gray23]
-| gray24 | [gray24]
-| gray25 | [gray25]
-| gray26 | [gray26]
-| gray27 | [gray27]
-| gray28 | [gray28]
-| gray29 | [gray29]
-| gray30 | [gray30]
-| gray31 | [gray31]
-| gray32 | [gray32]
-| gray33 | [gray33]
-| gray34 | [gray34]
-| gray35 | [gray35]
-| gray36 | [gray36]
-| gray37 | [gray37]
-| gray38 | [gray38]
-| gray39 | [gray39]
-| gray40 | [gray40]
-| dimgray | [dimgray]
-| gray42 | [gray42]
-| gray43 | [gray43]
-| gray44 | [gray44]
-| gray45 | [gray45]
-| gray46 | [gray46]
-| gray47 | [gray47]
-| gray48 | [gray48]
-| gray49 | [gray49]
-| gray50 | [gray50]
-| webgray | [webgray]
-| gray51 | [gray51]
-| gray52 | [gray52]
-| gray53 | [gray53]
-| gray54 | [gray54]
-| gray55 | [gray55]
-| gray56 | [gray56]
-| gray57 | [gray57]
-| gray58 | [gray58]
-| gray59 | [gray59]
-| gray60 | [gray60]
-| gray61 | [gray61]
-| gray62 | [gray62]
-| gray63 | [gray63]
-| gray64 | [gray64]
-| gray65 | [gray65]
-| gray66 | [gray66]
-| darkgray | [darkgray]
-| gray67 | [gray67]
-| gray68 | [gray68]
-| gray69 | [gray69]
-| gray70 | [gray70]
-| gray71 | [gray71]
-| gray72 | [gray72]
-| gray73 | [gray73]
-| gray74 | [gray74]
-| gray | [gray]
-| gray75 | [gray75]
-| silver | [silver]
-| gray76 | [gray76]
-| gray77 | [gray77]
-| gray78 | [gray78]
-| gray79 | [gray79]
-| gray80 | [gray80]
-| gray81 | [gray81]
-| gray82 | [gray82]
-| lightgray | [lightgray]
-| gray83 | [gray83]
-| gray84 | [gray84]
-| gray85 | [gray85]
-| gray86 | [gray86]
-| gainsboro | [gainsboro]
-| gray87 | [gray87]
-| gray88 | [gray88]
-| gray89 | [gray89]
-| gray90 | [gray90]
-| gray91 | [gray91]
-| gray92 | [gray92]
-| gray93 | [gray93]
-| gray94 | [gray94]
-| gray95 | [gray95]
-| gray96 | [gray96]
-| gray97 | [gray97]
-| gray98 | [gray98]
-| gray99 | [gray99]
-| gray100 | [gray100]
+| brown | <img src="https://blessed.readthedocs.io/en/latest/_images/brown.png" width="50" height="10">
+| brown1 | <img src="https://blessed.readthedocs.io/en/latest/_images/brown1.png" width="50" height="10">
+| brown2 | <img src="https://blessed.readthedocs.io/en/latest/_images/brown2.png" width="50" height="10">
+| brown3 | <img src="https://blessed.readthedocs.io/en/latest/_images/brown3.png" width="50" height="10">
+| brown4 | <img src="https://blessed.readthedocs.io/en/latest/_images/brown4.png" width="50" height="10">
+| darkred | <img src="https://blessed.readthedocs.io/en/latest/_images/darkred.png" width="50" height="10">
+| indianred | <img src="https://blessed.readthedocs.io/en/latest/_images/indianred.png" width="50" height="10">
+| indianred1 | <img src="https://blessed.readthedocs.io/en/latest/_images/indianred1.png" width="50" height="10">
+| indianred2 | <img src="https://blessed.readthedocs.io/en/latest/_images/indianred2.png" width="50" height="10">
+| indianred3 | <img src="https://blessed.readthedocs.io/en/latest/_images/indianred3.png" width="50" height="10">
+| indianred4 | <img src="https://blessed.readthedocs.io/en/latest/_images/indianred4.png" width="50" height="10">
+| firebrick | <img src="https://blessed.readthedocs.io/en/latest/_images/firebrick.png" width="50" height="10">
+| firebrick1 | <img src="https://blessed.readthedocs.io/en/latest/_images/firebrick1.png" width="50" height="10">
+| firebrick2 | <img src="https://blessed.readthedocs.io/en/latest/_images/firebrick2.png" width="50" height="10">
+| firebrick3 | <img src="https://blessed.readthedocs.io/en/latest/_images/firebrick3.png" width="50" height="10">
+| firebrick4 | <img src="https://blessed.readthedocs.io/en/latest/_images/firebrick4.png" width="50" height="10">
+| webmaroon | <img src="https://blessed.readthedocs.io/en/latest/_images/webmaroon.png" width="50" height="10">
+| rosybrown | <img src="https://blessed.readthedocs.io/en/latest/_images/rosybrown.png" width="50" height="10">
+| rosybrown1 | <img src="https://blessed.readthedocs.io/en/latest/_images/rosybrown1.png" width="50" height="10">
+| rosybrown2 | <img src="https://blessed.readthedocs.io/en/latest/_images/rosybrown2.png" width="50" height="10">
+| rosybrown3 | <img src="https://blessed.readthedocs.io/en/latest/_images/rosybrown3.png" width="50" height="10">
+| rosybrown4 | <img src="https://blessed.readthedocs.io/en/latest/_images/rosybrown4.png" width="50" height="10">
+| lightcoral | <img src="https://blessed.readthedocs.io/en/latest/_images/lightcoral.png" width="50" height="10">
+| salmon | <img src="https://blessed.readthedocs.io/en/latest/_images/salmon.png" width="50" height="10">
+| mistyrose | <img src="https://blessed.readthedocs.io/en/latest/_images/mistyrose.png" width="50" height="10">
+| mistyrose2 | <img src="https://blessed.readthedocs.io/en/latest/_images/mistyrose2.png" width="50" height="10">
+| mistyrose3 | <img src="https://blessed.readthedocs.io/en/latest/_images/mistyrose3.png" width="50" height="10">
+| coral1 | <img src="https://blessed.readthedocs.io/en/latest/_images/coral1.png" width="50" height="10">
+| coral2 | <img src="https://blessed.readthedocs.io/en/latest/_images/coral2.png" width="50" height="10">
+| coral3 | <img src="https://blessed.readthedocs.io/en/latest/_images/coral3.png" width="50" height="10">
+| coral4 | <img src="https://blessed.readthedocs.io/en/latest/_images/coral4.png" width="50" height="10">
+| tomato | <img src="https://blessed.readthedocs.io/en/latest/_images/tomato.png" width="50" height="10">
+| tomato2 | <img src="https://blessed.readthedocs.io/en/latest/_images/tomato2.png" width="50" height="10">
+| tomato3 | <img src="https://blessed.readthedocs.io/en/latest/_images/tomato3.png" width="50" height="10">
+| tomato4 | <img src="https://blessed.readthedocs.io/en/latest/_images/tomato4.png" width="50" height="10">
+| mistyrose4 | <img src="https://blessed.readthedocs.io/en/latest/_images/mistyrose4.png" width="50" height="10">
+| salmon1 | <img src="https://blessed.readthedocs.io/en/latest/_images/salmon1.png" width="50" height="10">
+| salmon2 | <img src="https://blessed.readthedocs.io/en/latest/_images/salmon2.png" width="50" height="10">
+| salmon3 | <img src="https://blessed.readthedocs.io/en/latest/_images/salmon3.png" width="50" height="10">
+| salmon4 | <img src="https://blessed.readthedocs.io/en/latest/_images/salmon4.png" width="50" height="10">
+| coral | <img src="https://blessed.readthedocs.io/en/latest/_images/coral.png" width="50" height="10">
+| orangered | <img src="https://blessed.readthedocs.io/en/latest/_images/orangered.png" width="50" height="10">
+| orangered2 | <img src="https://blessed.readthedocs.io/en/latest/_images/orangered2.png" width="50" height="10">
+| orangered3 | <img src="https://blessed.readthedocs.io/en/latest/_images/orangered3.png" width="50" height="10">
+| orangered4 | <img src="https://blessed.readthedocs.io/en/latest/_images/orangered4.png" width="50" height="10">
+| darksalmon | <img src="https://blessed.readthedocs.io/en/latest/_images/darksalmon.png" width="50" height="10">
+| lightsalmon | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsalmon.png" width="50" height="10">
+| lightsalmon2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsalmon2.png" width="50" height="10">
+| lightsalmon3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsalmon3.png" width="50" height="10">
+| lightsalmon4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsalmon4.png" width="50" height="10">
+| sienna | <img src="https://blessed.readthedocs.io/en/latest/_images/sienna.png" width="50" height="10">
+| sienna1 | <img src="https://blessed.readthedocs.io/en/latest/_images/sienna1.png" width="50" height="10">
+| sienna2 | <img src="https://blessed.readthedocs.io/en/latest/_images/sienna2.png" width="50" height="10">
+| sienna3 | <img src="https://blessed.readthedocs.io/en/latest/_images/sienna3.png" width="50" height="10">
+| sienna4 | <img src="https://blessed.readthedocs.io/en/latest/_images/sienna4.png" width="50" height="10">
+| seashell | <img src="https://blessed.readthedocs.io/en/latest/_images/seashell.png" width="50" height="10">
+| chocolate | <img src="https://blessed.readthedocs.io/en/latest/_images/chocolate.png" width="50" height="10">
+| chocolate1 | <img src="https://blessed.readthedocs.io/en/latest/_images/chocolate1.png" width="50" height="10">
+| chocolate2 | <img src="https://blessed.readthedocs.io/en/latest/_images/chocolate2.png" width="50" height="10">
+| chocolate3 | <img src="https://blessed.readthedocs.io/en/latest/_images/chocolate3.png" width="50" height="10">
+| chocolate4 | <img src="https://blessed.readthedocs.io/en/latest/_images/chocolate4.png" width="50" height="10">
+| seashell2 | <img src="https://blessed.readthedocs.io/en/latest/_images/seashell2.png" width="50" height="10">
+| seashell3 | <img src="https://blessed.readthedocs.io/en/latest/_images/seashell3.png" width="50" height="10">
+| seashell4 | <img src="https://blessed.readthedocs.io/en/latest/_images/seashell4.png" width="50" height="10">
+| peachpuff | <img src="https://blessed.readthedocs.io/en/latest/_images/peachpuff.png" width="50" height="10">
+| peachpuff2 | <img src="https://blessed.readthedocs.io/en/latest/_images/peachpuff2.png" width="50" height="10">
+| peachpuff3 | <img src="https://blessed.readthedocs.io/en/latest/_images/peachpuff3.png" width="50" height="10">
+| peachpuff4 | <img src="https://blessed.readthedocs.io/en/latest/_images/peachpuff4.png" width="50" height="10">
+| sandybrown | <img src="https://blessed.readthedocs.io/en/latest/_images/sandybrown.png" width="50" height="10">
+| tan1 | <img src="https://blessed.readthedocs.io/en/latest/_images/tan1.png" width="50" height="10">
+| tan2 | <img src="https://blessed.readthedocs.io/en/latest/_images/tan2.png" width="50" height="10">
+| tan4 | <img src="https://blessed.readthedocs.io/en/latest/_images/tan4.png" width="50" height="10">
+| peru | <img src="https://blessed.readthedocs.io/en/latest/_images/peru.png" width="50" height="10">
+| linen | <img src="https://blessed.readthedocs.io/en/latest/_images/linen.png" width="50" height="10">
+| bisque3 | <img src="https://blessed.readthedocs.io/en/latest/_images/bisque3.png" width="50" height="10">
+| darkorange1 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorange1.png" width="50" height="10">
+| darkorange2 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorange2.png" width="50" height="10">
+| darkorange3 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorange3.png" width="50" height="10">
+| darkorange4 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorange4.png" width="50" height="10">
+| tan | <img src="https://blessed.readthedocs.io/en/latest/_images/tan.png" width="50" height="10">
+| bisque | <img src="https://blessed.readthedocs.io/en/latest/_images/bisque.png" width="50" height="10">
+| bisque2 | <img src="https://blessed.readthedocs.io/en/latest/_images/bisque2.png" width="50" height="10">
+| bisque4 | <img src="https://blessed.readthedocs.io/en/latest/_images/bisque4.png" width="50" height="10">
+| burlywood | <img src="https://blessed.readthedocs.io/en/latest/_images/burlywood.png" width="50" height="10">
+| burlywood1 | <img src="https://blessed.readthedocs.io/en/latest/_images/burlywood1.png" width="50" height="10">
+| burlywood2 | <img src="https://blessed.readthedocs.io/en/latest/_images/burlywood2.png" width="50" height="10">
+| burlywood3 | <img src="https://blessed.readthedocs.io/en/latest/_images/burlywood3.png" width="50" height="10">
+| burlywood4 | <img src="https://blessed.readthedocs.io/en/latest/_images/burlywood4.png" width="50" height="10">
+| darkorange | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorange.png" width="50" height="10">
+| navajowhite | <img src="https://blessed.readthedocs.io/en/latest/_images/navajowhite.png" width="50" height="10">
+| navajowhite2 | <img src="https://blessed.readthedocs.io/en/latest/_images/navajowhite2.png" width="50" height="10">
+| antiquewhite | <img src="https://blessed.readthedocs.io/en/latest/_images/antiquewhite.png" width="50" height="10">
+| antiquewhite1 | <img src="https://blessed.readthedocs.io/en/latest/_images/antiquewhite1.png" width="50" height="10">
+| antiquewhite2 | <img src="https://blessed.readthedocs.io/en/latest/_images/antiquewhite2.png" width="50" height="10">
+| antiquewhite3 | <img src="https://blessed.readthedocs.io/en/latest/_images/antiquewhite3.png" width="50" height="10">
+| antiquewhite4 | <img src="https://blessed.readthedocs.io/en/latest/_images/antiquewhite4.png" width="50" height="10">
+| wheat | <img src="https://blessed.readthedocs.io/en/latest/_images/wheat.png" width="50" height="10">
+| wheat1 | <img src="https://blessed.readthedocs.io/en/latest/_images/wheat1.png" width="50" height="10">
+| wheat2 | <img src="https://blessed.readthedocs.io/en/latest/_images/wheat2.png" width="50" height="10">
+| wheat3 | <img src="https://blessed.readthedocs.io/en/latest/_images/wheat3.png" width="50" height="10">
+| wheat4 | <img src="https://blessed.readthedocs.io/en/latest/_images/wheat4.png" width="50" height="10">
+| orange | <img src="https://blessed.readthedocs.io/en/latest/_images/orange.png" width="50" height="10">
+| orange2 | <img src="https://blessed.readthedocs.io/en/latest/_images/orange2.png" width="50" height="10">
+| orange3 | <img src="https://blessed.readthedocs.io/en/latest/_images/orange3.png" width="50" height="10">
+| orange4 | <img src="https://blessed.readthedocs.io/en/latest/_images/orange4.png" width="50" height="10">
+| oldlace | <img src="https://blessed.readthedocs.io/en/latest/_images/oldlace.png" width="50" height="10">
+| moccasin | <img src="https://blessed.readthedocs.io/en/latest/_images/moccasin.png" width="50" height="10">
+| papayawhip | <img src="https://blessed.readthedocs.io/en/latest/_images/papayawhip.png" width="50" height="10">
+| navajowhite3 | <img src="https://blessed.readthedocs.io/en/latest/_images/navajowhite3.png" width="50" height="10">
+| navajowhite4 | <img src="https://blessed.readthedocs.io/en/latest/_images/navajowhite4.png" width="50" height="10">
+| blanchedalmond | <img src="https://blessed.readthedocs.io/en/latest/_images/blanchedalmond.png" width="50" height="10">
+| goldenrod | <img src="https://blessed.readthedocs.io/en/latest/_images/goldenrod.png" width="50" height="10">
+| goldenrod1 | <img src="https://blessed.readthedocs.io/en/latest/_images/goldenrod1.png" width="50" height="10">
+| goldenrod2 | <img src="https://blessed.readthedocs.io/en/latest/_images/goldenrod2.png" width="50" height="10">
+| goldenrod3 | <img src="https://blessed.readthedocs.io/en/latest/_images/goldenrod3.png" width="50" height="10">
+| goldenrod4 | <img src="https://blessed.readthedocs.io/en/latest/_images/goldenrod4.png" width="50" height="10">
+| floralwhite | <img src="https://blessed.readthedocs.io/en/latest/_images/floralwhite.png" width="50" height="10">
+| darkgoldenrod | <img src="https://blessed.readthedocs.io/en/latest/_images/darkgoldenrod.png" width="50" height="10">
+| darkgoldenrod1 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkgoldenrod1.png" width="50" height="10">
+| darkgoldenrod2 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkgoldenrod2.png" width="50" height="10">
+| darkgoldenrod3 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkgoldenrod3.png" width="50" height="10">
+| darkgoldenrod4 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkgoldenrod4.png" width="50" height="10">
+| cornsilk | <img src="https://blessed.readthedocs.io/en/latest/_images/cornsilk.png" width="50" height="10">
+| cornsilk2 | <img src="https://blessed.readthedocs.io/en/latest/_images/cornsilk2.png" width="50" height="10">
+| cornsilk3 | <img src="https://blessed.readthedocs.io/en/latest/_images/cornsilk3.png" width="50" height="10">
+| lightgoldenrod1 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgoldenrod1.png" width="50" height="10">
+| lightgoldenrod2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgoldenrod2.png" width="50" height="10">
+| lightgoldenrod3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgoldenrod3.png" width="50" height="10">
+| gold | <img src="https://blessed.readthedocs.io/en/latest/_images/gold.png" width="50" height="10">
+| gold2 | <img src="https://blessed.readthedocs.io/en/latest/_images/gold2.png" width="50" height="10">
+| gold3 | <img src="https://blessed.readthedocs.io/en/latest/_images/gold3.png" width="50" height="10">
+| gold4 | <img src="https://blessed.readthedocs.io/en/latest/_images/gold4.png" width="50" height="10">
+| cornsilk4 | <img src="https://blessed.readthedocs.io/en/latest/_images/cornsilk4.png" width="50" height="10">
+| lemonchiffon2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lemonchiffon2.png" width="50" height="10">
+| lightgoldenrod | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgoldenrod.png" width="50" height="10">
+| lightgoldenrod4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgoldenrod4.png" width="50" height="10">
+| khaki | <img src="https://blessed.readthedocs.io/en/latest/_images/khaki.png" width="50" height="10">
+| khaki1 | <img src="https://blessed.readthedocs.io/en/latest/_images/khaki1.png" width="50" height="10">
+| khaki2 | <img src="https://blessed.readthedocs.io/en/latest/_images/khaki2.png" width="50" height="10">
+| khaki3 | <img src="https://blessed.readthedocs.io/en/latest/_images/khaki3.png" width="50" height="10">
+| khaki4 | <img src="https://blessed.readthedocs.io/en/latest/_images/khaki4.png" width="50" height="10">
+| darkkhaki | <img src="https://blessed.readthedocs.io/en/latest/_images/darkkhaki.png" width="50" height="10">
+| lemonchiffon | <img src="https://blessed.readthedocs.io/en/latest/_images/lemonchiffon.png" width="50" height="10">
+| lemonchiffon3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lemonchiffon3.png" width="50" height="10">
+| lemonchiffon4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lemonchiffon4.png" width="50" height="10">
+| palegoldenrod | <img src="https://blessed.readthedocs.io/en/latest/_images/palegoldenrod.png" width="50" height="10">
+| beige | <img src="https://blessed.readthedocs.io/en/latest/_images/beige.png" width="50" height="10">
+| olive | <img src="https://blessed.readthedocs.io/en/latest/_images/olive.png" width="50" height="10">
+| ivory | <img src="https://blessed.readthedocs.io/en/latest/_images/ivory.png" width="50" height="10">
+| ivory2 | <img src="https://blessed.readthedocs.io/en/latest/_images/ivory2.png" width="50" height="10">
+| ivory3 | <img src="https://blessed.readthedocs.io/en/latest/_images/ivory3.png" width="50" height="10">
+| ivory4 | <img src="https://blessed.readthedocs.io/en/latest/_images/ivory4.png" width="50" height="10">
+| yellow2 | <img src="https://blessed.readthedocs.io/en/latest/_images/yellow2.png" width="50" height="10">
+| yellow3 | <img src="https://blessed.readthedocs.io/en/latest/_images/yellow3.png" width="50" height="10">
+| yellow4 | <img src="https://blessed.readthedocs.io/en/latest/_images/yellow4.png" width="50" height="10">
+| lightyellow | <img src="https://blessed.readthedocs.io/en/latest/_images/lightyellow.png" width="50" height="10">
+| lightyellow2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightyellow2.png" width="50" height="10">
+| lightyellow3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightyellow3.png" width="50" height="10">
+| lightyellow4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightyellow4.png" width="50" height="10">
+| lightgoldenrodyellow | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgoldenrodyellow.png" width="50" height="10">
+| olivedrab | <img src="https://blessed.readthedocs.io/en/latest/_images/olivedrab.png" width="50" height="10">
+| olivedrab1 | <img src="https://blessed.readthedocs.io/en/latest/_images/olivedrab1.png" width="50" height="10">
+| olivedrab2 | <img src="https://blessed.readthedocs.io/en/latest/_images/olivedrab2.png" width="50" height="10">
+| olivedrab3 | <img src="https://blessed.readthedocs.io/en/latest/_images/olivedrab3.png" width="50" height="10">
+| olivedrab4 | <img src="https://blessed.readthedocs.io/en/latest/_images/olivedrab4.png" width="50" height="10">
+| darkolivegreen | <img src="https://blessed.readthedocs.io/en/latest/_images/darkolivegreen.png" width="50" height="10">
+| darkolivegreen1 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkolivegreen1.png" width="50" height="10">
+| darkolivegreen2 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkolivegreen2.png" width="50" height="10">
+| darkolivegreen3 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkolivegreen3.png" width="50" height="10">
+| darkolivegreen4 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkolivegreen4.png" width="50" height="10">
+| greenyellow | <img src="https://blessed.readthedocs.io/en/latest/_images/greenyellow.png" width="50" height="10">
+| lawngreen | <img src="https://blessed.readthedocs.io/en/latest/_images/lawngreen.png" width="50" height="10">
+| chartreuse | <img src="https://blessed.readthedocs.io/en/latest/_images/chartreuse.png" width="50" height="10">
+| chartreuse2 | <img src="https://blessed.readthedocs.io/en/latest/_images/chartreuse2.png" width="50" height="10">
+| chartreuse3 | <img src="https://blessed.readthedocs.io/en/latest/_images/chartreuse3.png" width="50" height="10">
+| chartreuse4 | <img src="https://blessed.readthedocs.io/en/latest/_images/chartreuse4.png" width="50" height="10">
+| green2 | <img src="https://blessed.readthedocs.io/en/latest/_images/green2.png" width="50" height="10">
+| green3 | <img src="https://blessed.readthedocs.io/en/latest/_images/green3.png" width="50" height="10">
+| green4 | <img src="https://blessed.readthedocs.io/en/latest/_images/green4.png" width="50" height="10">
+| webgreen | <img src="https://blessed.readthedocs.io/en/latest/_images/webgreen.png" width="50" height="10">
+| honeydew | <img src="https://blessed.readthedocs.io/en/latest/_images/honeydew.png" width="50" height="10">
+| honeydew2 | <img src="https://blessed.readthedocs.io/en/latest/_images/honeydew2.png" width="50" height="10">
+| honeydew3 | <img src="https://blessed.readthedocs.io/en/latest/_images/honeydew3.png" width="50" height="10">
+| honeydew4 | <img src="https://blessed.readthedocs.io/en/latest/_images/honeydew4.png" width="50" height="10">
+| darkgreen | <img src="https://blessed.readthedocs.io/en/latest/_images/darkgreen.png" width="50" height="10">
+| palegreen | <img src="https://blessed.readthedocs.io/en/latest/_images/palegreen.png" width="50" height="10">
+| palegreen1 | <img src="https://blessed.readthedocs.io/en/latest/_images/palegreen1.png" width="50" height="10">
+| palegreen3 | <img src="https://blessed.readthedocs.io/en/latest/_images/palegreen3.png" width="50" height="10">
+| palegreen4 | <img src="https://blessed.readthedocs.io/en/latest/_images/palegreen4.png" width="50" height="10">
+| limegreen | <img src="https://blessed.readthedocs.io/en/latest/_images/limegreen.png" width="50" height="10">
+| lightgreen | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgreen.png" width="50" height="10">
+| forestgreen | <img src="https://blessed.readthedocs.io/en/latest/_images/forestgreen.png" width="50" height="10">
+| darkseagreen | <img src="https://blessed.readthedocs.io/en/latest/_images/darkseagreen.png" width="50" height="10">
+| darkseagreen1 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkseagreen1.png" width="50" height="10">
+| darkseagreen2 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkseagreen2.png" width="50" height="10">
+| darkseagreen3 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkseagreen3.png" width="50" height="10">
+| darkseagreen4 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkseagreen4.png" width="50" height="10">
+| seagreen | <img src="https://blessed.readthedocs.io/en/latest/_images/seagreen.png" width="50" height="10">
+| seagreen1 | <img src="https://blessed.readthedocs.io/en/latest/_images/seagreen1.png" width="50" height="10">
+| seagreen2 | <img src="https://blessed.readthedocs.io/en/latest/_images/seagreen2.png" width="50" height="10">
+| seagreen3 | <img src="https://blessed.readthedocs.io/en/latest/_images/seagreen3.png" width="50" height="10">
+| mediumseagreen | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumseagreen.png" width="50" height="10">
+| mintcream | <img src="https://blessed.readthedocs.io/en/latest/_images/mintcream.png" width="50" height="10">
+| springgreen | <img src="https://blessed.readthedocs.io/en/latest/_images/springgreen.png" width="50" height="10">
+| springgreen2 | <img src="https://blessed.readthedocs.io/en/latest/_images/springgreen2.png" width="50" height="10">
+| springgreen3 | <img src="https://blessed.readthedocs.io/en/latest/_images/springgreen3.png" width="50" height="10">
+| springgreen4 | <img src="https://blessed.readthedocs.io/en/latest/_images/springgreen4.png" width="50" height="10">
+| mediumspringgreen | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumspringgreen.png" width="50" height="10">
+| aquamarine | <img src="https://blessed.readthedocs.io/en/latest/_images/aquamarine.png" width="50" height="10">
+| aquamarine2 | <img src="https://blessed.readthedocs.io/en/latest/_images/aquamarine2.png" width="50" height="10">
+| aquamarine3 | <img src="https://blessed.readthedocs.io/en/latest/_images/aquamarine3.png" width="50" height="10">
+| aquamarine4 | <img src="https://blessed.readthedocs.io/en/latest/_images/aquamarine4.png" width="50" height="10">
+| turquoise | <img src="https://blessed.readthedocs.io/en/latest/_images/turquoise.png" width="50" height="10">
+| lightseagreen | <img src="https://blessed.readthedocs.io/en/latest/_images/lightseagreen.png" width="50" height="10">
+| mediumturquoise | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumturquoise.png" width="50" height="10">
+| teal | <img src="https://blessed.readthedocs.io/en/latest/_images/teal.png" width="50" height="10">
+| aqua | <img src="https://blessed.readthedocs.io/en/latest/_images/aqua.png" width="50" height="10">
+| cyan2 | <img src="https://blessed.readthedocs.io/en/latest/_images/cyan2.png" width="50" height="10">
+| cyan3 | <img src="https://blessed.readthedocs.io/en/latest/_images/cyan3.png" width="50" height="10">
+| cyan4 | <img src="https://blessed.readthedocs.io/en/latest/_images/cyan4.png" width="50" height="10">
+| azure | <img src="https://blessed.readthedocs.io/en/latest/_images/azure.png" width="50" height="10">
+| azure2 | <img src="https://blessed.readthedocs.io/en/latest/_images/azure2.png" width="50" height="10">
+| azure3 | <img src="https://blessed.readthedocs.io/en/latest/_images/azure3.png" width="50" height="10">
+| azure4 | <img src="https://blessed.readthedocs.io/en/latest/_images/azure4.png" width="50" height="10">
+| cadetblue | <img src="https://blessed.readthedocs.io/en/latest/_images/cadetblue.png" width="50" height="10">
+| lightcyan | <img src="https://blessed.readthedocs.io/en/latest/_images/lightcyan.png" width="50" height="10">
+| lightcyan2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightcyan2.png" width="50" height="10">
+| lightcyan3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightcyan3.png" width="50" height="10">
+| lightcyan4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightcyan4.png" width="50" height="10">
+| turquoise1 | <img src="https://blessed.readthedocs.io/en/latest/_images/turquoise1.png" width="50" height="10">
+| turquoise2 | <img src="https://blessed.readthedocs.io/en/latest/_images/turquoise2.png" width="50" height="10">
+| turquoise3 | <img src="https://blessed.readthedocs.io/en/latest/_images/turquoise3.png" width="50" height="10">
+| turquoise4 | <img src="https://blessed.readthedocs.io/en/latest/_images/turquoise4.png" width="50" height="10">
+| darkslategray | <img src="https://blessed.readthedocs.io/en/latest/_images/darkslategray.png" width="50" height="10">
+| darkslategray1 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkslategray1.png" width="50" height="10">
+| darkslategray2 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkslategray2.png" width="50" height="10">
+| darkslategray3 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkslategray3.png" width="50" height="10">
+| darkslategray4 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkslategray4.png" width="50" height="10">
+| darkturquoise | <img src="https://blessed.readthedocs.io/en/latest/_images/darkturquoise.png" width="50" height="10">
+| paleturquoise | <img src="https://blessed.readthedocs.io/en/latest/_images/paleturquoise.png" width="50" height="10">
+| paleturquoise1 | <img src="https://blessed.readthedocs.io/en/latest/_images/paleturquoise1.png" width="50" height="10">
+| paleturquoise2 | <img src="https://blessed.readthedocs.io/en/latest/_images/paleturquoise2.png" width="50" height="10">
+| paleturquoise3 | <img src="https://blessed.readthedocs.io/en/latest/_images/paleturquoise3.png" width="50" height="10">
+| paleturquoise4 | <img src="https://blessed.readthedocs.io/en/latest/_images/paleturquoise4.png" width="50" height="10">
+| cadetblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/cadetblue1.png" width="50" height="10">
+| cadetblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/cadetblue2.png" width="50" height="10">
+| cadetblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/cadetblue3.png" width="50" height="10">
+| cadetblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/cadetblue4.png" width="50" height="10">
+| powderblue | <img src="https://blessed.readthedocs.io/en/latest/_images/powderblue.png" width="50" height="10">
+| lightblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightblue4.png" width="50" height="10">
+| skyblue | <img src="https://blessed.readthedocs.io/en/latest/_images/skyblue.png" width="50" height="10">
+| lightblue | <img src="https://blessed.readthedocs.io/en/latest/_images/lightblue.png" width="50" height="10">
+| lightblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightblue1.png" width="50" height="10">
+| lightblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightblue2.png" width="50" height="10">
+| lightblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightblue3.png" width="50" height="10">
+| deepskyblue | <img src="https://blessed.readthedocs.io/en/latest/_images/deepskyblue.png" width="50" height="10">
+| deepskyblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/deepskyblue2.png" width="50" height="10">
+| deepskyblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/deepskyblue3.png" width="50" height="10">
+| deepskyblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/deepskyblue4.png" width="50" height="10">
+| lightskyblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightskyblue3.png" width="50" height="10">
+| skyblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/skyblue1.png" width="50" height="10">
+| skyblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/skyblue2.png" width="50" height="10">
+| skyblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/skyblue3.png" width="50" height="10">
+| skyblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/skyblue4.png" width="50" height="10">
+| lightskyblue | <img src="https://blessed.readthedocs.io/en/latest/_images/lightskyblue.png" width="50" height="10">
+| lightskyblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightskyblue1.png" width="50" height="10">
+| lightskyblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightskyblue2.png" width="50" height="10">
+| lightskyblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightskyblue4.png" width="50" height="10">
+| aliceblue | <img src="https://blessed.readthedocs.io/en/latest/_images/aliceblue.png" width="50" height="10">
+| steelblue | <img src="https://blessed.readthedocs.io/en/latest/_images/steelblue.png" width="50" height="10">
+| steelblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/steelblue1.png" width="50" height="10">
+| steelblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/steelblue2.png" width="50" height="10">
+| steelblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/steelblue3.png" width="50" height="10">
+| steelblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/steelblue4.png" width="50" height="10">
+| slategray | <img src="https://blessed.readthedocs.io/en/latest/_images/slategray.png" width="50" height="10">
+| slategray1 | <img src="https://blessed.readthedocs.io/en/latest/_images/slategray1.png" width="50" height="10">
+| slategray2 | <img src="https://blessed.readthedocs.io/en/latest/_images/slategray2.png" width="50" height="10">
+| slategray3 | <img src="https://blessed.readthedocs.io/en/latest/_images/slategray3.png" width="50" height="10">
+| slategray4 | <img src="https://blessed.readthedocs.io/en/latest/_images/slategray4.png" width="50" height="10">
+| dodgerblue | <img src="https://blessed.readthedocs.io/en/latest/_images/dodgerblue.png" width="50" height="10">
+| dodgerblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/dodgerblue2.png" width="50" height="10">
+| dodgerblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/dodgerblue3.png" width="50" height="10">
+| dodgerblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/dodgerblue4.png" width="50" height="10">
+| lightslategray | <img src="https://blessed.readthedocs.io/en/latest/_images/lightslategray.png" width="50" height="10">
+| lightsteelblue | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsteelblue.png" width="50" height="10">
+| lightsteelblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsteelblue1.png" width="50" height="10">
+| lightsteelblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsteelblue2.png" width="50" height="10">
+| lightsteelblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsteelblue3.png" width="50" height="10">
+| lightsteelblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightsteelblue4.png" width="50" height="10">
+| cornflowerblue | <img src="https://blessed.readthedocs.io/en/latest/_images/cornflowerblue.png" width="50" height="10">
+| royalblue | <img src="https://blessed.readthedocs.io/en/latest/_images/royalblue.png" width="50" height="10">
+| royalblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/royalblue1.png" width="50" height="10">
+| royalblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/royalblue2.png" width="50" height="10">
+| royalblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/royalblue3.png" width="50" height="10">
+| royalblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/royalblue4.png" width="50" height="10">
+| blue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/blue2.png" width="50" height="10">
+| blue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/blue3.png" width="50" height="10">
+| blue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/blue4.png" width="50" height="10">
+| navy | <img src="https://blessed.readthedocs.io/en/latest/_images/navy.png" width="50" height="10">
+| lavender | <img src="https://blessed.readthedocs.io/en/latest/_images/lavender.png" width="50" height="10">
+| ghostwhite | <img src="https://blessed.readthedocs.io/en/latest/_images/ghostwhite.png" width="50" height="10">
+| midnightblue | <img src="https://blessed.readthedocs.io/en/latest/_images/midnightblue.png" width="50" height="10">
+| slateblue | <img src="https://blessed.readthedocs.io/en/latest/_images/slateblue.png" width="50" height="10">
+| slateblue1 | <img src="https://blessed.readthedocs.io/en/latest/_images/slateblue1.png" width="50" height="10">
+| slateblue3 | <img src="https://blessed.readthedocs.io/en/latest/_images/slateblue3.png" width="50" height="10">
+| slateblue4 | <img src="https://blessed.readthedocs.io/en/latest/_images/slateblue4.png" width="50" height="10">
+| lightslateblue | <img src="https://blessed.readthedocs.io/en/latest/_images/lightslateblue.png" width="50" height="10">
+| slateblue2 | <img src="https://blessed.readthedocs.io/en/latest/_images/slateblue2.png" width="50" height="10">
+| darkslateblue | <img src="https://blessed.readthedocs.io/en/latest/_images/darkslateblue.png" width="50" height="10">
+| mediumslateblue | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumslateblue.png" width="50" height="10">
+| mediumpurple | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumpurple.png" width="50" height="10">
+| mediumpurple1 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumpurple1.png" width="50" height="10">
+| mediumpurple2 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumpurple2.png" width="50" height="10">
+| mediumpurple3 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumpurple3.png" width="50" height="10">
+| mediumpurple4 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumpurple4.png" width="50" height="10">
+| purple1 | <img src="https://blessed.readthedocs.io/en/latest/_images/purple1.png" width="50" height="10">
+| purple2 | <img src="https://blessed.readthedocs.io/en/latest/_images/purple2.png" width="50" height="10">
+| purple3 | <img src="https://blessed.readthedocs.io/en/latest/_images/purple3.png" width="50" height="10">
+| purple4 | <img src="https://blessed.readthedocs.io/en/latest/_images/purple4.png" width="50" height="10">
+| blueviolet | <img src="https://blessed.readthedocs.io/en/latest/_images/blueviolet.png" width="50" height="10">
+| rebeccapurple | <img src="https://blessed.readthedocs.io/en/latest/_images/rebeccapurple.png" width="50" height="10">
+| indigo | <img src="https://blessed.readthedocs.io/en/latest/_images/indigo.png" width="50" height="10">
+| purple | <img src="https://blessed.readthedocs.io/en/latest/_images/purple.png" width="50" height="10">
+| darkorchid | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorchid.png" width="50" height="10">
+| darkorchid1 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorchid1.png" width="50" height="10">
+| darkorchid2 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorchid2.png" width="50" height="10">
+| darkorchid3 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorchid3.png" width="50" height="10">
+| darkorchid4 | <img src="https://blessed.readthedocs.io/en/latest/_images/darkorchid4.png" width="50" height="10">
+| darkviolet | <img src="https://blessed.readthedocs.io/en/latest/_images/darkviolet.png" width="50" height="10">
+| mediumorchid1 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumorchid1.png" width="50" height="10">
+| mediumorchid2 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumorchid2.png" width="50" height="10">
+| mediumorchid3 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumorchid3.png" width="50" height="10">
+| mediumorchid4 | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumorchid4.png" width="50" height="10">
+| mediumorchid | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumorchid.png" width="50" height="10">
+| plum | <img src="https://blessed.readthedocs.io/en/latest/_images/plum.png" width="50" height="10">
+| plum1 | <img src="https://blessed.readthedocs.io/en/latest/_images/plum1.png" width="50" height="10">
+| plum2 | <img src="https://blessed.readthedocs.io/en/latest/_images/plum2.png" width="50" height="10">
+| plum3 | <img src="https://blessed.readthedocs.io/en/latest/_images/plum3.png" width="50" height="10">
+| plum4 | <img src="https://blessed.readthedocs.io/en/latest/_images/plum4.png" width="50" height="10">
+| orchid | <img src="https://blessed.readthedocs.io/en/latest/_images/orchid.png" width="50" height="10">
+| orchid4 | <img src="https://blessed.readthedocs.io/en/latest/_images/orchid4.png" width="50" height="10">
+| violet | <img src="https://blessed.readthedocs.io/en/latest/_images/violet.png" width="50" height="10">
+| magenta2 | <img src="https://blessed.readthedocs.io/en/latest/_images/magenta2.png" width="50" height="10">
+| magenta3 | <img src="https://blessed.readthedocs.io/en/latest/_images/magenta3.png" width="50" height="10">
+| fuchsia | <img src="https://blessed.readthedocs.io/en/latest/_images/fuchsia.png" width="50" height="10">
+| thistle | <img src="https://blessed.readthedocs.io/en/latest/_images/thistle.png" width="50" height="10">
+| thistle1 | <img src="https://blessed.readthedocs.io/en/latest/_images/thistle1.png" width="50" height="10">
+| thistle2 | <img src="https://blessed.readthedocs.io/en/latest/_images/thistle2.png" width="50" height="10">
+| thistle3 | <img src="https://blessed.readthedocs.io/en/latest/_images/thistle3.png" width="50" height="10">
+| thistle4 | <img src="https://blessed.readthedocs.io/en/latest/_images/thistle4.png" width="50" height="10">
+| webpurple | <img src="https://blessed.readthedocs.io/en/latest/_images/webpurple.png" width="50" height="10">
+| darkmagenta | <img src="https://blessed.readthedocs.io/en/latest/_images/darkmagenta.png" width="50" height="10">
+| orchid1 | <img src="https://blessed.readthedocs.io/en/latest/_images/orchid1.png" width="50" height="10">
+| orchid2 | <img src="https://blessed.readthedocs.io/en/latest/_images/orchid2.png" width="50" height="10">
+| orchid3 | <img src="https://blessed.readthedocs.io/en/latest/_images/orchid3.png" width="50" height="10">
+| maroon1 | <img src="https://blessed.readthedocs.io/en/latest/_images/maroon1.png" width="50" height="10">
+| maroon2 | <img src="https://blessed.readthedocs.io/en/latest/_images/maroon2.png" width="50" height="10">
+| maroon3 | <img src="https://blessed.readthedocs.io/en/latest/_images/maroon3.png" width="50" height="10">
+| maroon4 | <img src="https://blessed.readthedocs.io/en/latest/_images/maroon4.png" width="50" height="10">
+| violetred | <img src="https://blessed.readthedocs.io/en/latest/_images/violetred.png" width="50" height="10">
+| mediumvioletred | <img src="https://blessed.readthedocs.io/en/latest/_images/mediumvioletred.png" width="50" height="10">
+| deeppink | <img src="https://blessed.readthedocs.io/en/latest/_images/deeppink.png" width="50" height="10">
+| deeppink2 | <img src="https://blessed.readthedocs.io/en/latest/_images/deeppink2.png" width="50" height="10">
+| deeppink4 | <img src="https://blessed.readthedocs.io/en/latest/_images/deeppink4.png" width="50" height="10">
+| hotpink | <img src="https://blessed.readthedocs.io/en/latest/_images/hotpink.png" width="50" height="10">
+| hotpink1 | <img src="https://blessed.readthedocs.io/en/latest/_images/hotpink1.png" width="50" height="10">
+| hotpink4 | <img src="https://blessed.readthedocs.io/en/latest/_images/hotpink4.png" width="50" height="10">
+| deeppink3 | <img src="https://blessed.readthedocs.io/en/latest/_images/deeppink3.png" width="50" height="10">
+| hotpink2 | <img src="https://blessed.readthedocs.io/en/latest/_images/hotpink2.png" width="50" height="10">
+| hotpink3 | <img src="https://blessed.readthedocs.io/en/latest/_images/hotpink3.png" width="50" height="10">
+| violetred1 | <img src="https://blessed.readthedocs.io/en/latest/_images/violetred1.png" width="50" height="10">
+| violetred2 | <img src="https://blessed.readthedocs.io/en/latest/_images/violetred2.png" width="50" height="10">
+| violetred3 | <img src="https://blessed.readthedocs.io/en/latest/_images/violetred3.png" width="50" height="10">
+| violetred4 | <img src="https://blessed.readthedocs.io/en/latest/_images/violetred4.png" width="50" height="10">
+| maroon | <img src="https://blessed.readthedocs.io/en/latest/_images/maroon.png" width="50" height="10">
+| lavenderblush4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lavenderblush4.png" width="50" height="10">
+| lavenderblush | <img src="https://blessed.readthedocs.io/en/latest/_images/lavenderblush.png" width="50" height="10">
+| lavenderblush2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lavenderblush2.png" width="50" height="10">
+| lavenderblush3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lavenderblush3.png" width="50" height="10">
+| palevioletred | <img src="https://blessed.readthedocs.io/en/latest/_images/palevioletred.png" width="50" height="10">
+| palevioletred1 | <img src="https://blessed.readthedocs.io/en/latest/_images/palevioletred1.png" width="50" height="10">
+| palevioletred2 | <img src="https://blessed.readthedocs.io/en/latest/_images/palevioletred2.png" width="50" height="10">
+| palevioletred3 | <img src="https://blessed.readthedocs.io/en/latest/_images/palevioletred3.png" width="50" height="10">
+| palevioletred4 | <img src="https://blessed.readthedocs.io/en/latest/_images/palevioletred4.png" width="50" height="10">
+| pink1 | <img src="https://blessed.readthedocs.io/en/latest/_images/pink1.png" width="50" height="10">
+| pink2 | <img src="https://blessed.readthedocs.io/en/latest/_images/pink2.png" width="50" height="10">
+| pink3 | <img src="https://blessed.readthedocs.io/en/latest/_images/pink3.png" width="50" height="10">
+| pink4 | <img src="https://blessed.readthedocs.io/en/latest/_images/pink4.png" width="50" height="10">
+| crimson | <img src="https://blessed.readthedocs.io/en/latest/_images/crimson.png" width="50" height="10">
+| pink | <img src="https://blessed.readthedocs.io/en/latest/_images/pink.png" width="50" height="10">
+| lightpink | <img src="https://blessed.readthedocs.io/en/latest/_images/lightpink.png" width="50" height="10">
+| lightpink1 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightpink1.png" width="50" height="10">
+| lightpink2 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightpink2.png" width="50" height="10">
+| lightpink3 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightpink3.png" width="50" height="10">
+| lightpink4 | <img src="https://blessed.readthedocs.io/en/latest/_images/lightpink4.png" width="50" height="10">
+| gray1 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray1.png" width="50" height="10">
+| gray2 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray2.png" width="50" height="10">
+| gray3 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray3.png" width="50" height="10">
+| gray4 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray4.png" width="50" height="10">
+| gray5 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray5.png" width="50" height="10">
+| gray6 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray6.png" width="50" height="10">
+| gray7 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray7.png" width="50" height="10">
+| gray8 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray8.png" width="50" height="10">
+| gray9 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray9.png" width="50" height="10">
+| gray10 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray10.png" width="50" height="10">
+| gray11 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray11.png" width="50" height="10">
+| gray12 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray12.png" width="50" height="10">
+| gray13 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray13.png" width="50" height="10">
+| gray14 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray14.png" width="50" height="10">
+| gray15 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray15.png" width="50" height="10">
+| gray16 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray16.png" width="50" height="10">
+| gray17 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray17.png" width="50" height="10">
+| gray18 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray18.png" width="50" height="10">
+| gray19 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray19.png" width="50" height="10">
+| gray20 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray20.png" width="50" height="10">
+| gray21 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray21.png" width="50" height="10">
+| gray22 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray22.png" width="50" height="10">
+| gray23 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray23.png" width="50" height="10">
+| gray24 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray24.png" width="50" height="10">
+| gray25 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray25.png" width="50" height="10">
+| gray26 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray26.png" width="50" height="10">
+| gray27 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray27.png" width="50" height="10">
+| gray28 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray28.png" width="50" height="10">
+| gray29 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray29.png" width="50" height="10">
+| gray30 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray30.png" width="50" height="10">
+| gray31 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray31.png" width="50" height="10">
+| gray32 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray32.png" width="50" height="10">
+| gray33 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray33.png" width="50" height="10">
+| gray34 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray34.png" width="50" height="10">
+| gray35 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray35.png" width="50" height="10">
+| gray36 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray36.png" width="50" height="10">
+| gray37 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray37.png" width="50" height="10">
+| gray38 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray38.png" width="50" height="10">
+| gray39 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray39.png" width="50" height="10">
+| gray40 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray40.png" width="50" height="10">
+| dimgray | <img src="https://blessed.readthedocs.io/en/latest/_images/dimgray.png" width="50" height="10">
+| gray42 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray42.png" width="50" height="10">
+| gray43 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray43.png" width="50" height="10">
+| gray44 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray44.png" width="50" height="10">
+| gray45 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray45.png" width="50" height="10">
+| gray46 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray46.png" width="50" height="10">
+| gray47 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray47.png" width="50" height="10">
+| gray48 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray48.png" width="50" height="10">
+| gray49 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray49.png" width="50" height="10">
+| gray50 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray50.png" width="50" height="10">
+| webgray | <img src="https://blessed.readthedocs.io/en/latest/_images/webgray.png" width="50" height="10">
+| gray51 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray51.png" width="50" height="10">
+| gray52 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray52.png" width="50" height="10">
+| gray53 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray53.png" width="50" height="10">
+| gray54 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray54.png" width="50" height="10">
+| gray55 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray55.png" width="50" height="10">
+| gray56 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray56.png" width="50" height="10">
+| gray57 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray57.png" width="50" height="10">
+| gray58 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray58.png" width="50" height="10">
+| gray59 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray59.png" width="50" height="10">
+| gray60 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray60.png" width="50" height="10">
+| gray61 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray61.png" width="50" height="10">
+| gray62 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray62.png" width="50" height="10">
+| gray63 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray63.png" width="50" height="10">
+| gray64 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray64.png" width="50" height="10">
+| gray65 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray65.png" width="50" height="10">
+| gray66 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray66.png" width="50" height="10">
+| darkgray | <img src="https://blessed.readthedocs.io/en/latest/_images/darkgray.png" width="50" height="10">
+| gray67 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray67.png" width="50" height="10">
+| gray68 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray68.png" width="50" height="10">
+| gray69 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray69.png" width="50" height="10">
+| gray70 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray70.png" width="50" height="10">
+| gray71 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray71.png" width="50" height="10">
+| gray72 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray72.png" width="50" height="10">
+| gray73 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray73.png" width="50" height="10">
+| gray74 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray74.png" width="50" height="10">
+| gray | <img src="https://blessed.readthedocs.io/en/latest/_images/gray.png" width="50" height="10">
+| gray75 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray75.png" width="50" height="10">
+| silver | <img src="https://blessed.readthedocs.io/en/latest/_images/silver.png" width="50" height="10">
+| gray76 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray76.png" width="50" height="10">
+| gray77 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray77.png" width="50" height="10">
+| gray78 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray78.png" width="50" height="10">
+| gray79 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray79.png" width="50" height="10">
+| gray80 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray80.png" width="50" height="10">
+| gray81 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray81.png" width="50" height="10">
+| gray82 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray82.png" width="50" height="10">
+| lightgray | <img src="https://blessed.readthedocs.io/en/latest/_images/lightgray.png" width="50" height="10">
+| gray83 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray83.png" width="50" height="10">
+| gray84 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray84.png" width="50" height="10">
+| gray85 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray85.png" width="50" height="10">
+| gray86 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray86.png" width="50" height="10">
+| gainsboro | <img src="https://blessed.readthedocs.io/en/latest/_images/gainsboro.png" width="50" height="10">
+| gray87 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray87.png" width="50" height="10">
+| gray88 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray88.png" width="50" height="10">
+| gray89 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray89.png" width="50" height="10">
+| gray90 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray90.png" width="50" height="10">
+| gray91 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray91.png" width="50" height="10">
+| gray92 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray92.png" width="50" height="10">
+| gray93 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray93.png" width="50" height="10">
+| gray94 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray94.png" width="50" height="10">
+| gray95 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray95.png" width="50" height="10">
+| gray96 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray96.png" width="50" height="10">
+| gray97 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray97.png" width="50" height="10">
+| gray98 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray98.png" width="50" height="10">
+| gray99 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray99.png" width="50" height="10">
+| gray100 | <img src="https://blessed.readthedocs.io/en/latest/_images/gray100.png" width="50" height="10">

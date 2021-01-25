@@ -44,12 +44,12 @@ Each of these colors has an equivalent `on_<color>()` function for use as backgr
 
 | name | colour
 | :----- | :----
-| red2 | [red2](https://blessed.readthedocs.io/en/latest/_images/red2.png)
-| red3 | [red3](https://blessed.readthedocs.io/en/latest/_images/red3.png)
-| snow | [snow](https://blessed.readthedocs.io/en/latest/_images/snow.png)
-| snow2 | [snow2](https://blessed.readthedocs.io/en/latest/_images/snow2.png)
-| snow3 | [snow3](https://blessed.readthedocs.io/en/latest/_images/snow3.png)
-| snow4 | [snow4](https://blessed.readthedocs.io/en/latest/_images/snow4.png)
+| red2 | <img src="https://blessed.readthedocs.io/en/latest/_images/red2.png" width="100" height="50">
+| red3 | ![red3](https://blessed.readthedocs.io/en/latest/_images/red3.png =50x50)
+| snow | ![snow](https://blessed.readthedocs.io/en/latest/_images/snow.png =50x50)
+| snow2 | ![snow2](https://blessed.readthedocs.io/en/latest/_images/snow2.png =50x50)
+| snow3 | ![snow3](https://blessed.readthedocs.io/en/latest/_images/snow3.png =50x50)
+| snow4 | ![snow4](https://blessed.readthedocs.io/en/latest/_images/snow4.png =50x50)
 | brown | [brown]
 | brown1 | [brown1]
 | brown2 | [brown2]
